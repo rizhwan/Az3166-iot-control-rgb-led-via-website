@@ -92,6 +92,8 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+*.build
+*.vscode
 
 # Chutzpah Test files
 _Chutzpah*
@@ -351,3 +353,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+*.bin
+.azurecomponent/azureconfig.json
